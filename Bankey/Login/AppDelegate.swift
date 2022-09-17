@@ -22,7 +22,7 @@ var window: UIWindow?
         
         return true
 
-}
+ }
 
 }
     
